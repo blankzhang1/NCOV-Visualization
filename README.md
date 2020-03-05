@@ -3,3 +3,4 @@ This report uses the **2019 Novel Corona Virus Dataset** found from **Kaggle**. 
 <br />1) As COVID-19 prevailing in the world, how can we see the circumstance of controlling this virus? 
 <br />2) How worse will the condition go in the future? 
 <br />In order to answer these questions, we provide data visualization of this dataset in different forms and perspective angles. We also applied several meaningful models to forecast and predict the confirmed case number in the future.   
+<br />Here is the link to the dataset: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
